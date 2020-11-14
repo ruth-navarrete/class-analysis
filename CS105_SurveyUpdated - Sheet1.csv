@@ -1,0 +1,90 @@
+,"1. What are your reasons
+for taking course?","2. Are you a 
+transfer student?","3. What year of study 
+are you in?","4. Are you familiar 
+with Python?","5. Are you familiar
+with Github?","6. Are you familiar
+with SQL?","7. Are you familiar 
+with JupyterLab?","8. Are you familiar
+with Anaconda?",9. Which of the following courses have you taken?,,,,,"10. Other DS related courses 
+you've taken","11. How familiar are you
+ with different stastical tests ","12. How many classes are
+ you taking this quarter?","13. How many of your classes this 
+quarter have a lab (including CS 105)",14. How old are you?,"15. How many tech electives
+have you taken at UCR? ","16. What is your first 
+programming language?","17. What is your preferred 
+""go to"" programming language?","18.When did you begin 
+learning how to program?","19. How did you begin 
+programming","20. Do you like playing 
+sports / working out?","21. How many days a 
+week do you work out?",22. What is your gender?,"23. Do you like 
+listening to music?","24. What type of music do 
+you prefer listening to?",25. Do you like reading ,"26. What genre of books 
+do you like to read (if you had to)"
+,,,,,,,,,Stat155,Data Mining ,Machine Learning ,AI ,Database Management,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,2,3,1,2,1,0,1,,,,,,,2,4,2,32,2,C++,C++,First year in college,Introductory course in college,No,0,Male,Yes,Rock,Yes ,Fantasy
+2,,2,4,0,1,0,0,0,4,,,,,,5,4,3,23,3,C++,C++,First year of College,Online Tutorials,Yes ,3,Female,Yes,Classical,Yes,Detective/Mystery
+3,,2,4,0,1,0,1,0,4 (Concurrently),,,,,,1,4,1,,1,Java,C++,First year of College,Introductory course in college,Yes ,0,Male ,Yes ,Classical,Yes,Nonfiction
+4,,1,3,3,3,1,1,1,,,,,,,6,4,2,20,1,Java,Python,9th grade,High School course,Yes ,5,Male ,Yes ,Hiphop,Yes,Detective/Mystery
+5,,2,4,1,3,2,0,0,4,,,4,,"4? (NLP, Software engineering)",2,4,2,27,6,C++,Javascript,Second year of college,Introductory course in college,Yes ,3,Male,Yes,Metal,Yes,Detective/Mystery
+6,,1,6,1,3,3,0,0,4,,,,4,,,,,,,,,,,,,,,,,
+7,,1,3,0,1,0,1,0,,,,,,,6,4,3,20,2,C++,C++,First year of college,Introductory course in college,Yes,3,Female,Yes,RnB,Yes,Romance
+8,,2,3,1,1,0,1,1,4,,,,,,3,4,3,21,2,C++,Python,First year of college,Introductory course in college,Yes,4,Male,Yes,Rap,No,Detective/Mystery
+9,,1,3,0,1,0,1,0,,,,,,,7,3,1,20,1,C++,C++,12th grade ,Introductory course in college,No,2,Male,Yes,Alternative,No,Graphic Novel/Comic book
+10,,2,4,2,3,3,0,0,4,,,,4,,7,4,2,20,4,Java,C++,11th grade,High School course,No,1,Female,Yes,RnB,Yes,Detective/Mystery
+11,,2,4,0,1,1,0,0,,,,,,,6,4,2,21,1,Java,C++,9th grade,Other,Yes,1,Male,Yes,Rock,Yes,Graphic Novel/Comic book
+12,,,,,,,,,,,,,,,7,2,1,30,2,Java,Python,First year of colege,Introductory course in college,Yes,1,Female ,Yes,Alternative,Yes,Biogrpahies/Autobiographies
+13,,2,4,1,1,0,0,0,,,,,,,5,4,1,25,2,C++,C++,First year of college,Introductory course in college,No,0,Male,Yes,Alternative,Yes,Classics
+14,,1,2,1,1,0,1,0,,,,,,,2,4,3,19,1,Javascript,Java,11th grade,Bootcamp,Yes,1,Female,Yes,Rap,Yes,Literary Fiction
+15,,1,3,0,2,0,1,0,,,,,,,6,4,2,20,1,C++,C++,First year of college,Introductory course in college,Yes,5,Male,Yes,Hiphop,No,Romcom
+16,,2,5,3,3,1,1,0,4,4,4,4,4,,,,,,,,,,,,,,,,,
+17,,1,4,1,2,0,1,0,,,4 (Concurrently),,,,3,,3,20,,C++,C++,Second year of college,Introductory course in college,No,0,Male,Yes ,Alternative,No,Romance
+18,,1,3,1,2,0,0,0,,,,,,,3,3,2,20,1,Java,C++,11th grade,High School course,Yes,1,Male,Yes ,Edm,Yes,Action/Adventure
+19,,1,6,2,2,3,0,0,,4,,,4,,5,2,1,23,4,Python,Java,First year of college,Someone taught me how to program,No,0,Female,Yes ,Hiphop,Yes,
+20,,2,4,1,2,0,0,0,4,,,4,,,3,4,2,30,5,Java,Python,11th grade,High School course,Yes,2,Female,Yes ,Classical,No,Literary Fiction
+21,,2,2,0,0,0,0,0,,,,,,4,3,3,2,30,1,C++,C++,Second year of college,Introductory course in college,Yes,3,Male,Yes,Alternative,Yes,Fantasy
+22,,2,3,1,2,0,0,0,,,,,,,1,4,3,22,1,Java,C++,11th grade,High School course,No ,0,Male,Yes,Pop,Yes,Graphic Novel/Comic book
+23,,1,3,3,3,1,1,1,,4,4,,,,,,,,,,,,,,,,,,,
+24,,1,4,2,3,2,1,1,,4,4,,4,,8,3,3,21,5,C++ ,Python,12th grade,High school course,,,Female,Yes,RnB,Yes,Instructional/Self Improvement
+25,,2,3,3,3,3,1,1,4 (Concurrently),,,,,,6,3,3,22,1,Java,Python,9th grade,High school course,Yes,5,Male,Yes,Hiphop,Yes,Scifi
+26,,1,4,1,3,1,1,1,4,,,4,4,,2,4,1,21,8,C++ ,Python,First year in college,Introducory course in college,Yes,7,Male,Yes,Hiphop,No,Fantasy
+27,,2,4,2,3,1,1,0,4,,4,,,,,,,,,,,,,,,,,,,
+28,,1,4,1,2,0,0,0,,,,,,,2,3,1,21,3,C++,C++,First year of college,Introductory course in college,Yes,5,Male,Yes ,Alternative,No,Fantasy
+29,,1,4,1,3,1,1,1,,4,4,,4,,6,4,3,21,5,C++,Python,First year of college,Introductory course in college,No,4,Male,Yes ,RnB,Yes,Fantasy
+30,,1,3,1,3,0,1,1,,,,,,,3,3,2,20,1,C++,Java,11th grade,Introductory course in college,,,,,,,
+31,,2,4,1,2,0,0,1,,,,,,,5,4,2,21,1,C#,C++,9th grade,High school course,Yes,7,Male,Yes ,Rock ,No ,Horror
+32,,1,4,1,3,2,1,0,,,,,4,,7,4,4,21,8,C++,C++,First year of college,Introductory course in college,Yes,4,Male,Yes ,RnB,Yes,Classics
+33,,1,3,0,1,0,1,0,,,,,,,3,4,3,20,1,C++,C++,10th grade,High school course,No,0,Male,Yes,Pop,No ,Action/Adventure
+34,,1,4,3,3,1,1,1,4,,,4,,,7,1,1,22,6,C++,Python,First yeat in college,Introductory course in college,Yes,2,Male ,Yes,Hiphop,Yes,Action/Adventure
+35,,2,2,0,2,0,0,0,4,,4,,,,4,4,2,23,6,C++,C++,Second year of college,Introductory course in college,Yes,2,Male ,Yes,Pop,Yes,Biography/Autobiogrpahy
+36,,1,4,1,1,1,1,1,4,,,,,4,8,4,2,20,1,Javascript,Python,9th grade,High school course,No,2,Non binary,Yes,Edm ,Yes,Literary Fiction
+37,,2,3,1,2,1,0,0,4 (Concurrently),,,,,,8,5,4,28,1,Java ,Java,Second year of college,Introductory course in college,Yes,3,Female ,Yes,Pop,Yes,Romance
+38,,2,4,2,3,1,1,1,4,,,4,4,4,,,,,,,,,,,,,,,,
+39,,1,2,2,0,1,0,0,,,,,4,,4,4,1,19,1,Javascript,Python,9th grade,Online Tutorial,Yes,1,Female ,Yes,Pop,No,Detective/Mystery
+40,,1,4,3,3,0,1,0,,,4,4,,,5,3,1,21,5,Jav ,Python,10th grade,High school course,Yes,7,Male,Yes,Edm,Yes,Nonfiction
+41,,2,3,2,2,1,1,1,4,,4,4,,,5,3,3,23,5,C++,Java,First year of college,Introductory course in college,No,0,Male,Yes,Hiphop,Yes,Scifi
+42,,2,4,0,3,1,0,0,,,,4,4,8,,,,,,,,,,,,,,,,
+43,,1,2,0,1,0,0,0,,,,,,,1,4,2,19,1,Java,C++,12th grade,Online Tutorials,Yes,2,Male,Yes,Pop,Yes,Action/Adventure
+44,,1,3,1,3,0,1,0,,,,,,,4,3,2,20,2,C++,C++,First year of college,Intrductory course in college,No,0,Female,Yes,Alternative,Yes,Scifi
+45,,,,,,,,,,,,,,,4,4,4,24,5,Java,Javascript,11th grade,Online Tutorials,Yes,1,Male,Yes,Pop,No,Horror
+46,,1,3,1,3,0,1,0,4,,,,,,4,3,2,21,2,Java,C++,10th grade,High school course,Yes,0,Male,Yes,Pop,No,
+47,,1,4,1,2,0,0,1,4,,4,,,,2,3,3,22,10,C++,Python,First year of college,Intrductory course in college,Yes ,6,Male,Yes,Pop,Yes,Romance
+48,,1,4,1,0,1,1,1,,,,,,4,9,3,1,21,5,C++,Python,First year of college,Intrductory course in college,Yes ,2,Male,Yes,Pop,Yes,Romance
+49,,1,3,1,3,2,0,1,,,,,,,6,4,2,20,2,Javascript,Python,11th grade,High school course,Yes,3,Male,Yes,Edm,Yes,Fantasy
+50,,1,3,2,2,2,1,1,,,,,,,8,4,2,20,1,Python,Python,9th grade,Other,Yes,3,Male,Yes,Classical,Yes,Scifi
+51,,2,3,1,1,0,0,0,4,,,,,,,,,,,,,,,,,,,,,
+52,,1,2,0,1,2,1,0,,,,,,,1,3,3,19,1,Java,C++,11th grade,High school course,No,2,Male,Yes,Pop,No,Scifi
+53,,1,4,2,3,1,0,0,4 (Concurrently),,,,,,7,4,3,21,5,C++,Python,,,,,Male,Yes,Rap,Yes,Detective/Mystery
+54,,1,3,2,2,1,0,0,,,,,,,2,4,1,20,2,Python,Pyhton,11th grade,High school course,,,,,,,
+55,,1,2,2,2,0,1,0,,,,,,,4,4,3,19,1,C++,C++,First year of College,Inrtoductory course in college,Yes,4,Male,Yes,Hiphop,Yes,Action/Adventure
+56,,2,4,2,3,3,1,0,4,,4,4,4,8,7,3,2,34,8,C++,C++,Third year of college,Inrtoductory course in college,Yes,5,Male,Yes,Rock,Yes,Graphic Novel/Comic book
+57,,1,4,3,3,2,1,1,4,4,4,,,,7,4,3,21,7,Python,Python,10th grade,Online Tutorial,Yes,2,Male,Yes,Edm,No,Scifi
+58,,1,2,2,2,2,0,1,,4,,,,,6,4,4,24,2,C++,C++,Second year of college,Introductory course in college,Yes ,4,Male,Yes,Pop,Yes,Romcom
+59,,1,4,1,3,0,0,0,,,,,,,3,2,1,23,4,Java,Java,First year of College,Intoductory course in college,Yes ,,Female,,RnB,Yes,
+60,,1,4,2,3,1,1,1,,,4,,4,,,,,,,,,,,,,,,,,
+61,,2,3,1,1,0,0,0,,,,,,,1,3,1,29,1,Java,Rust,Second year of college,Introductory course in college,Yes,4,Male,Yes ,Hiphop,Yes,Scifi
+62,,1,2,1,2,0,1,0,,,,,,,7,4,2,19,1,Java,C++,10th grade,High school course,Yes,3,Male,Yes,Hiphop ,No,Detective/Mystery
+63,,2,3,0,1,0,0,0,,,,,,,4,4,3,22,2,C,C++,First year of college,Intrductory course in college,Yes,0,Male,Yes,Hiphop,Yes,Historical Fiction
+64,,2,4,2,1,3,0,1,,,,,,,,,,,,,,,,,,,,,,
+65,,2,4,1,3,3,1,1,,,,4,4,,,,,,,,,,,,,,,,,
